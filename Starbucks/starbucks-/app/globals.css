@@ -1,0 +1,98 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.Header{
+    height: 120px;
+    width: 100vw;
+    /* background-color: red; */
+    display: flex;
+    align-items: center;
+    /* justify-content: center; */
+    padding: 20px 40px;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+
+}
+.logo{
+    height: 70px;
+    width: 70px;
+    /* border: 2px solid blanchedalmond; */
+    border-radius: 50%;
+    overflow: hidden;
+    cursor: pointer;
+}
+
+.logo>img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+.ankar{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+   margin-left: 40px;
+}
+
+.ankar>a{
+ 
+     color: black;
+     font-size: 18px;
+    text-decoration: none;
+    font-weight: 700;
+}
+
+.ankar>a:hover{
+color: rgb(19, 111, 39);
+}
+
+.location{
+    display: flex;
+    align-items: center;
+    margin-left: 1000px;
+    margin-top: 1px;
+}
+
+.icon-loction{
+    font-size: 32px;
+}
+
+.location>p{
+    font-size: 20px;
+    font-weight: 500;
+    margin-left: 10px;
+}
+
+
+.location:hover{
+     color: rgb(19, 111, 39);
+     
+    
+    cursor: pointer;
+}
+
+
+.box-parent{
+    display: flex;
+    align-items: center;
+    margin-left: 60px;
+    gap: 10px;
+
+}
+.box{
+    height: 40px;
+    width: 140px;
+    border: 2px solid black;
+    border-radius: 20px;
+
+}
+
+.Home{
+    height: 500px;
+    width: 100vw;
+    background-color: aqua;
+}
