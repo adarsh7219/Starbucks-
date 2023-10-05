@@ -9,6 +9,8 @@ const page = () => {
    <Header/>
 
    <div className='Home'>
+
+    <h1>adarsh</h1>
     
    </div>
    
