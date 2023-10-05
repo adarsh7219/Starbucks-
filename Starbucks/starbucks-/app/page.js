@@ -10,7 +10,7 @@ const page = () => {
 
    <div className='Home'>
 
-    <h1>adarsh</h1>
+    <h1>adarsh vishwakarma</h1>
     
    </div>
    
