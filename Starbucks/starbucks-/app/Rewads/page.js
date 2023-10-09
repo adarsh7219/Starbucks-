@@ -1,11 +1,19 @@
 import React from 'react'
 import Header from '../Component/Header'
+import Last from '../Rewads/Last.css'
+
+
+
+
 
 const page = () => {
   return (
     <>
-    <Header/>
-    <h1>Rewads</h1>
+      <Header />
+      <Last/>
+    
+
+      <h1 className='last'>Rewads</h1>
     </>
   )
 }
