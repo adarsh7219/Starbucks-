@@ -164,7 +164,7 @@ const page = () => {
         <div className='chiled-footer'>
           <YouTubeIcon className='logo10' />
         </div>
-       
+
 
       </div>
 
@@ -174,11 +174,11 @@ const page = () => {
         <p className='p-ll-chiled'>Do Not Share My Personal Information</p>
         <p className='p-ll-chiled'>CA Supply Chain Act</p>
         <p className='p-ll-chiled'>Cookie Preferences</p>
-       
+
       </div>
       <p className='mahadev'>© 2023 Starbucks Coffee Company. All rights reserved.</p>
 
-    
+
 
 
 
